@@ -1,4 +1,4 @@
-# 
+# Exploring Pandas
 
 ## Context
 During my Data Scientist Bootcamp, we explored a wide range of topics essential to mastering this powerful data manipulation tool.
